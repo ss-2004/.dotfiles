@@ -1,0 +1,8 @@
+set tabsize 4
+set autoindent
+set linenumbers
+set keycolor cyan
+set numbercolor yellow
+set titlecolor white,red
+set constantshow
+include "/opt/homebrew/Cellar/nano/*/share/nano/*.nanorc"
